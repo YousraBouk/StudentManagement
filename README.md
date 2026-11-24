@@ -4,3 +4,7 @@ A small web application used to practise Git.
 ## Features
 - Student registration
 - Student information management
+
+
+
+- Student profile management
